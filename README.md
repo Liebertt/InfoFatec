@@ -49,7 +49,8 @@ Principais pacotes:
  # Web
  npm run web
  ```
-3. O aplicativo será carregado automaticamente no **Expo Go** (mobile) ou em **http://loc---
+3. O aplicativo será carregado automaticamente no **Expo Go** (mobile) ou em **http://localhost:8081**
+   
 ## ■ Recursos e Navegação
 - Navegação declarativa via **Expo Router** (`Link` e estrutura de pastas).
 - Layout responsivo compatível com **mobile** e **web**.
